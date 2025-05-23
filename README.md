@@ -1,4 +1,4 @@
-git clone https://github.com/YOUR_USERNAME/solana-bot.git
+git clone https://github.com/Candour1994/solana-bot.git
 cd solana-bot
 # Add your Python files here
 git add .
